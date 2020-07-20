@@ -1,4 +1,4 @@
-### Langages and such
+### Languages and such
 Java
 Processing
 C#
