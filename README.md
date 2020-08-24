@@ -25,7 +25,7 @@
 * SCSS
 * Bootstrap
 * HTML
-**JavaScript**
+* **JavaScript**
 * Validate.js
 * JQuery
 
