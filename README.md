@@ -1,5 +1,5 @@
 ## Languages and such
-### Java
+### Java ☕
 * Processing
 * Android
 * Libgdx
@@ -8,23 +8,23 @@
 * Unity
 * Discord.NET
 
-### Python
-* Flask
+### Python 🐍
+* Flask ⚗
 * Django
 * pygame
 
-### PHP
-* Composer
+### PHP 💩
+* Composer 
 
 ### Databases
-* MongoDB
-* MySQL
+* MongoDB 🍃
+* MySQL 🐬
 
 ### Web
-* CSS
-* SCSS
+* CSS 📃
+* SCSS 📜
 * Bootstrap
-* HTML
+* HTML 
 * **JavaScript**
 * Validate.js
 * JQuery
